@@ -1,0 +1,36 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+*.env
+
+# VS Code settings
+.vscode/
+
+# IDE specific files
+.idea/
+*.swp
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python distribution and packaging
+build/
+dist/
+*.egg-info/
+
+# Test directories
+.test/
+
+# Logs
+*.log
+
+# Sensitive data
+*.env
+*.secret
+
